@@ -1,0 +1,8 @@
+h1{
+    /* border: 2px solid red; */
+    text-align: center;
+    font-weight: 600;
+    background-color: rgb(176, 228, 212);
+    box-shadow: 0px 0px 12px rgb(95, 112, 107);
+    letter-spacing: 3px;
+}
